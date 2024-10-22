@@ -43,7 +43,7 @@
   
 [<img src="https://github-profile-trophy.vercel.app/?username=flower0wine&theme=nord&margin-w=25&row=1&column=7&no-frame=true&no-bg=true" alt="Github Summary" />](https://github.com/ryo-ma/github-profile-trophy)
 
-![Steam Card](https://card.yuy1n.io/card/76561199638176642/gradient1,en,badge,bg-game-30,badges,games,screenshots)
+![Steam Card](https://card.yuy1n.io/card/76561199638176642/gradient1,en,bg-game-578080,games,screenshots)
 
 </div>
 
