@@ -13,7 +13,14 @@
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center"><a href="https://github.com/flower0wine" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 16px"></a> <a href="flowerwine8023@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 16px"></a></p>
 
- **<h3 align="center">大家好！我是充满干劲的新时代青年，为了实现祖国的伟大复兴而努力。生活是无情的利刃，将现实与梦想强硬地分割，每一个对编码感兴趣的朋友或许都有改变世界的梦想，但往往事与愿违，我们对世界满怀期待，却总被现实狠狠打脸。但愿每个热爱编码的人儿都能幸福地生活！</h3>**
+## 如果[撒贝宁当年说过未来人人都是主持人、播音员](https://www.douyin.com/video/7123093827719564552)，那我今天就发个预言，未来人人都是程序员！
+我的知识贫乏、能力微弱，但是我能看见，最少五年，社会上的人将会出现一道明显的分歧将人分为两种，一种是会用人工智能技术、能接受新鲜技术的血液、脑海里能时刻迸发出很多奇思妙想的人；还有一种则是知道人工智能、但是不会、也不去学、甚至觉得这个对他的影响不大的人。
+
+可以预见，人人都可以是程序员的时代已经到来，现在就是谁有更多的资源、更敏捷的头脑能更快地、更稳地搭上这辆顺风车，吃上人工智能带来的红利。
+
+身为程序员的我，想对大家说：现在这个时代是人工智能正在蓬勃发展的时代，如果还有人故步自封，不去了解最新的科技发展，脑子里没有新奇的想法的话，并不会人工智能取代，因为人工智能只是人类的工具，但是如果你不用人工智能的话，你的开发水平将会被一位使用人工智能的小学生替代，因为小学生的思维敏捷、想法丰富，他能用人工智能更快地创造出更好的、更优秀的、更能顺应企业和用户需求的产品。
+
+希望有资源或者有想法的大佬能带带我~~~
 
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;">
