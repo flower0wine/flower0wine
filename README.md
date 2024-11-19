@@ -14,7 +14,7 @@
 <p align="center"><a href="https://github.com/flower0wine" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 16px"></a> <a href="flowerwine8023@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 16px"></a></p>
 
 ## 如果[撒贝宁当年说过未来人人都是主持人、播音员](https://www.douyin.com/video/7123093827719564552)，那我今天就发个预言，未来人人都是程序员！
-我的知识贫乏、能力微弱，但是我能看见，最少五年，社会上的人将会出现一道明显的分歧将人分为两种，一种是会用人工智能技术、能接受新鲜技术的血液、脑海里能时刻迸发出很多奇思妙想的人；还有一种则是知道人工智能、但是不会、也不去学、甚至觉得这个对他的影响不大的人。
+我的知识贫乏、能力微弱，但是我能看见，最多到 2030 年，社会上的人将会出现一道明显的分歧将人分为两种，一种是会用人工智能技术、能接受新鲜技术的血液、脑海里能时刻迸发出很多奇思妙想的人；还有一种则是知道人工智能、但是不会、也不去学、甚至觉得这个对他的影响不大的人。
 
 可以预见，人人都可以是程序员的时代已经到来，现在就是谁有更多的资源、更敏捷的头脑能更快地、更稳地搭上这辆顺风车，吃上人工智能带来的红利。
 
